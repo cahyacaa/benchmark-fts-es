@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"./database"
+	"github.com/bencmark-fts-es/database"
 )
 
 func main() {
